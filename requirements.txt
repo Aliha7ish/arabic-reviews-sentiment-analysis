@@ -1,0 +1,13 @@
+pandas
+torch
+tensorflow
+keras
+scikit-learn
+numpy
+matplotlib
+transformers
+arabert
+datasets
+tqdm
+swifter
+accelerate
